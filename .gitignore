@@ -1,0 +1,6 @@
+*.skill
+.DS_Store
+state*.json
+*.log
+*.err
+*.out
